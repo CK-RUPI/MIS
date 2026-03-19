@@ -51,3 +51,7 @@ logs/
 # Database
 *.sqlite
 *.db
+
+# Local working folders
+currentWorkflow/
+sourceOfTruth/
